@@ -1,17 +1,20 @@
 package com.example;
 
-public class Cclass extends ICCombineMain {
+public class Cclass extends AClass {
 
-	//@Override
+	
+	@Override
 	public void m1() {
+		
 		// TODO Auto-generated method stub
+		
 		System.out.println("Enter m1");
 	}
 
 	
 	public void m2() {
 	  
-	  System.out.println("Enter m2"); 
+		System.out.println("Enter m2"); 
 	  
 	}
 	  
