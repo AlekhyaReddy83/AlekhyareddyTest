@@ -7,6 +7,9 @@ public class SampleClass {
 		System.out.println("Enter 123456");
 		
 		
+		
+		
+		
 	}
 
 }
