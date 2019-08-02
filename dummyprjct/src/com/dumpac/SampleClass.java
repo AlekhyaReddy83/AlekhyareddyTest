@@ -6,7 +6,7 @@ public class SampleClass {
 		// TODO Auto-generated method stub
 		System.out.println("Enter 123456");
 		
-		
+		System.out.println("123");
 		
 		
 		
